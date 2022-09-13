@@ -1,0 +1,5 @@
+{
+    "icons" : [
+        "ti-arrow-up"
+    ]
+}

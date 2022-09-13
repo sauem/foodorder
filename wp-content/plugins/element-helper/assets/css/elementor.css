@@ -1,0 +1,36 @@
+.elh-widget-icon {
+	min-height: 30px;
+	display: block;
+	font-size: 28px;
+}
+.elh-widget-icon:after {
+	content: "EKIT";
+	position: absolute;
+	top: 3px;
+	right: 3px;
+	color: #556068;
+	font-size: 9px;
+	border: 1px solid #dedede;
+	font-weight: 400;
+	padding: 1px 2px;
+	line-height: 10px;
+	display: inline-block;
+	border-radius: 2px;
+	font-family: "Open Sans", Roboto, Helvetica, Arial, sans-serif;
+}
+.elh-widget-icon:after {
+	content: "NEW";
+	color: #e0e1e3;
+}
+.elementor-element-wrapper:hover .elh-widget-icon:after {
+	color: #d30c5c;
+}
+.elementor-editor-dark-mode .elh-widget-icon:after {
+	color: #e0e1e3;
+	border: 1px solid #dedede45;
+}
+.elementor-editor-dark-mode
+	.elementor-element-wrapper:hover
+	.elh-widget-icon:after {
+	color: #71d7f7;
+}

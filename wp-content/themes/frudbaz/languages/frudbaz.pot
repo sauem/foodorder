@@ -1,0 +1,1367 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-31 21:09+0600\n"
+"PO-Revision-Date: 2022-01-18 00:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:18 inc/kirki-customizer.php:993
+msgid "404"
+msgstr ""
+
+#: 404.php:19 inc/kirki-customizer.php:1001
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:20 inc/kirki-customizer.php:1017
+msgid "Back To Home"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"Oops! The page you are looking for does not exist. It might have been moved "
+"or deleted."
+msgstr ""
+
+#: comments.php:28
+msgid " Comments"
+msgstr ""
+
+#: comments.php:28
+msgid " Comment "
+msgstr ""
+
+#: comments.php:55
+msgid "&larr; Older "
+msgstr ""
+
+#: comments.php:58
+msgid "Newer &rarr;"
+msgstr ""
+
+#: functions.php:48
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:153
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:163
+msgid "Product Sidebar"
+msgstr ""
+
+#: functions.php:178 functions.php:180
+#, php-format
+msgid "Footer %1$s"
+msgstr ""
+
+#: functions.php:357
+msgid "Type your name..."
+msgstr ""
+
+#: functions.php:362
+msgid "Type your mail..."
+msgstr ""
+
+#: functions.php:371
+msgid "Type your Website"
+msgstr ""
+
+#: functions.php:381 functions.php:393
+msgid "Type your comments..."
+msgstr ""
+
+#: functions.php:399
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:471
+msgid "Search..."
+msgstr ""
+
+#: inc/add-plugin.php:27
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/add-plugin.php:32
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: inc/add-plugin.php:37
+msgid "Xpress Companion"
+msgstr ""
+
+#: inc/add-plugin.php:44
+msgid "Element Helper"
+msgstr ""
+
+#: inc/add-plugin.php:51
+msgid "WP Classic Editor"
+msgstr ""
+
+#: inc/add-plugin.php:56
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/add-plugin.php:61
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/add-plugin.php:66
+msgid "ACF Photo Gallery Field"
+msgstr ""
+
+#: inc/add-plugin.php:71
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/add-plugin.php:76
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/add-plugin.php:81
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/add-plugin.php:86
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/add-plugin.php:91
+msgid "Additional Variation Images Gallery for WooCommerce"
+msgstr ""
+
+#: inc/add-plugin.php:107 inc/class-tgm-plugin-activation.php:289
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/add-plugin.php:108 inc/class-tgm-plugin-activation.php:290
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/add-plugin.php:109 inc/class-tgm-plugin-activation.php:292
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/add-plugin.php:110 inc/class-tgm-plugin-activation.php:294
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/add-plugin.php:111 inc/class-tgm-plugin-activation.php:295
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/add-plugin.php:157 inc/class-tgm-plugin-activation.php:347
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/add-plugin.php:158 inc/class-tgm-plugin-activation.php:349
+#: inc/class-tgm-plugin-activation.php:3202
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/add-plugin.php:159 inc/class-tgm-plugin-activation.php:350
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/add-plugin.php:160 inc/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/add-plugin.php:161 inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/add-plugin.php:162 inc/class-tgm-plugin-activation.php:356
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/add-plugin.php:163 inc/class-tgm-plugin-activation.php:357
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/add-plugin.php:164 inc/class-tgm-plugin-activation.php:358
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/add-plugin.php:165 inc/class-tgm-plugin-activation.php:359
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-breadcrumb.php:249
+msgid "Browse:"
+msgstr ""
+
+#: inc/class-breadcrumb.php:252
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/class-breadcrumb.php:253
+msgid "Archives"
+msgstr ""
+
+#: inc/class-breadcrumb.php:255
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/class-breadcrumb.php:257
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/class-breadcrumb.php:259
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/class-breadcrumb.php:261
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/class-breadcrumb.php:263
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-navwalker.php:366
+msgid "Home"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#: inc/class-tgm-plugin-activation.php:867
+#: inc/class-tgm-plugin-activation.php:2577
+#: inc/class-tgm-plugin-activation.php:3623
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:562
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:563
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:974
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:974
+#: inc/class-tgm-plugin-activation.php:977
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:977
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2026
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2317
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2320
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2336
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2339
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2359
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2363
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2365
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2371
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2374
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2534
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2542
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2577
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2591
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2592
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2593
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2597
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2598
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2647
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2652
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2658
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2728
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2761
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2767
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2770
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2801
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2803
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2846
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2978
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3201
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3541
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3544
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3546
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3550
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3552
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3552
+#: inc/class-tgm-plugin-activation.php:3560
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3552
+#: inc/class-tgm-plugin-activation.php:3560
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3553
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3555
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3558
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3560
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3561
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/frudbaz-woocommerce.php:77
+msgid "Add to cart!"
+msgstr ""
+
+#: inc/frudbaz-woocommerce.php:89
+msgid "Sell"
+msgstr ""
+
+#: inc/frudbaz-woocommerce.php:269
+msgid "Add to Wishlist!"
+msgstr ""
+
+#: inc/frudbaz-woocommerce.php:332
+msgid "PRICE-"
+msgstr ""
+
+#: inc/kirki-customizer.php:21
+msgid "Frudbaz Customizer"
+msgstr ""
+
+#: inc/kirki-customizer.php:28
+msgid "Header Top Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:36
+msgid "Header Social"
+msgstr ""
+
+#: inc/kirki-customizer.php:44
+msgid "Header Style & Logos"
+msgstr ""
+
+#: inc/kirki-customizer.php:52 inc/kirki-customizer.php:76
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:60
+msgid "Side Info"
+msgstr ""
+
+#: inc/kirki-customizer.php:68
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:84
+msgid "Footer Social"
+msgstr ""
+
+#: inc/kirki-customizer.php:92
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:100
+msgid "Color Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:108
+msgid "404 Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:116
+msgid "RTL Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:132
+msgid "Topbar Swicher"
+msgstr ""
+
+#: inc/kirki-customizer.php:137 inc/kirki-customizer.php:150
+#: inc/kirki-customizer.php:163 inc/kirki-customizer.php:176
+#: inc/kirki-customizer.php:189 inc/kirki-customizer.php:202
+#: inc/kirki-customizer.php:215 inc/kirki-customizer.php:228
+#: inc/kirki-customizer.php:241 inc/kirki-customizer.php:254
+#: inc/kirki-customizer.php:462 inc/kirki-customizer.php:630
+#: inc/kirki-customizer.php:782 inc/kirki-customizer.php:888
+#: inc/kirki-customizer.php:917 inc/kirki-customizer.php:961
+#: inc/kirki-customizer.php:1038
+msgid "Enable"
+msgstr ""
+
+#: inc/kirki-customizer.php:138 inc/kirki-customizer.php:151
+#: inc/kirki-customizer.php:164 inc/kirki-customizer.php:177
+#: inc/kirki-customizer.php:190 inc/kirki-customizer.php:203
+#: inc/kirki-customizer.php:216 inc/kirki-customizer.php:229
+#: inc/kirki-customizer.php:242 inc/kirki-customizer.php:255
+#: inc/kirki-customizer.php:463 inc/kirki-customizer.php:631
+#: inc/kirki-customizer.php:783 inc/kirki-customizer.php:889
+#: inc/kirki-customizer.php:918 inc/kirki-customizer.php:962
+#: inc/kirki-customizer.php:1039
+msgid "Disable"
+msgstr ""
+
+#: inc/kirki-customizer.php:145
+msgid "Show Language"
+msgstr ""
+
+#: inc/kirki-customizer.php:158
+msgid "Preloader On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:171
+msgid "Back To Top On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:184
+msgid "Header Right On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:197
+msgid "Search On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:210
+msgid "Cart On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:223
+msgid "Wish List On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:236
+msgid "Side Info On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:249
+msgid "Footer Top"
+msgstr ""
+
+#: inc/kirki-customizer.php:262 inc/kirki-customizer.php:280
+#: inc/kirki-customizer.php:694
+msgid "Phone Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:264
+msgid "+876 864 764 764"
+msgstr ""
+
+#: inc/kirki-customizer.php:278
+msgid "Label"
+msgstr ""
+
+#: inc/kirki-customizer.php:294
+msgid "Year"
+msgstr ""
+
+#: inc/kirki-customizer.php:296
+msgid "20"
+msgstr ""
+
+#: inc/kirki-customizer.php:310
+msgid "Year Content"
+msgstr ""
+
+#: inc/kirki-customizer.php:312
+msgid "Years Experience"
+msgstr ""
+
+#: inc/kirki-customizer.php:326
+msgid "Mail ID"
+msgstr ""
+
+#: inc/kirki-customizer.php:328
+msgid "info@webmail.com"
+msgstr ""
+
+#: inc/kirki-customizer.php:342
+msgid "Login Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:344 inc/kirki-customizer.php:370
+#: inc/kirki-customizer.php:396 inc/kirki-customizer.php:405
+#: inc/kirki-customizer.php:414 inc/kirki-customizer.php:423
+#: inc/kirki-customizer.php:671 inc/xpress-helper.php:45
+#: inc/xpress-helper.php:323 inc/xpress-helper.php:518
+#: inc/xpress-helper.php:519 inc/xpress-helper.php:520
+#: inc/xpress-helper.php:521
+msgid "#"
+msgstr ""
+
+#: inc/kirki-customizer.php:352 inc/kirki-customizer.php:661
+msgid "Button Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:354
+msgid "Download Now"
+msgstr ""
+
+#: inc/kirki-customizer.php:368 inc/kirki-customizer.php:669
+msgid "Button URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:394
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:403
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:412
+msgid "Google Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:421
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:430
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:432 inc/kirki-customizer.php:441
+msgid " "
+msgstr ""
+
+#: inc/kirki-customizer.php:439
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/kirki-customizer.php:457
+msgid "Footer Socail On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:470
+msgid "Socail Links"
+msgstr ""
+
+#: inc/kirki-customizer.php:482
+msgid "Social Profile links"
+msgstr ""
+
+#: inc/kirki-customizer.php:485
+msgid "Add new"
+msgstr ""
+
+#: inc/kirki-customizer.php:488 inc/xpress-helper.php:554
+msgid "facebook-f"
+msgstr ""
+
+#: inc/kirki-customizer.php:492 inc/xpress-helper.php:558
+msgid "twitter"
+msgstr ""
+
+#: inc/kirki-customizer.php:496 inc/xpress-helper.php:562
+msgid "youtube"
+msgstr ""
+
+#: inc/kirki-customizer.php:500 inc/xpress-helper.php:566
+msgid "instagram"
+msgstr ""
+
+#: inc/kirki-customizer.php:507
+msgid "Select Social Icon"
+msgstr ""
+
+#: inc/kirki-customizer.php:508
+msgid "You can select avilable social icon from here"
+msgstr ""
+
+#: inc/kirki-customizer.php:511
+msgid "Facebook"
+msgstr ""
+
+#: inc/kirki-customizer.php:512
+msgid "Instagram"
+msgstr ""
+
+#: inc/kirki-customizer.php:513 inc/kirki-customizer.php:542
+msgid "Twitter"
+msgstr ""
+
+#: inc/kirki-customizer.php:514
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/kirki-customizer.php:515
+msgid "Pinterest"
+msgstr ""
+
+#: inc/kirki-customizer.php:516
+msgid "YouTube"
+msgstr ""
+
+#: inc/kirki-customizer.php:517
+msgid "Apple"
+msgstr ""
+
+#: inc/kirki-customizer.php:518
+msgid "Behance"
+msgstr ""
+
+#: inc/kirki-customizer.php:519
+msgid "BitBucket"
+msgstr ""
+
+#: inc/kirki-customizer.php:520
+msgid "CodePen"
+msgstr ""
+
+#: inc/kirki-customizer.php:521
+msgid "Delicious"
+msgstr ""
+
+#: inc/kirki-customizer.php:522
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/kirki-customizer.php:523
+msgid "Digg"
+msgstr ""
+
+#: inc/kirki-customizer.php:524
+msgid "Dribbble"
+msgstr ""
+
+#: inc/kirki-customizer.php:525
+msgid "Email"
+msgstr ""
+
+#: inc/kirki-customizer.php:526
+msgid "Flicker"
+msgstr ""
+
+#: inc/kirki-customizer.php:527
+msgid "FourSquare"
+msgstr ""
+
+#: inc/kirki-customizer.php:528
+msgid "Github"
+msgstr ""
+
+#: inc/kirki-customizer.php:529
+msgid "Houzz"
+msgstr ""
+
+#: inc/kirki-customizer.php:530
+msgid "JS Fiddle"
+msgstr ""
+
+#: inc/kirki-customizer.php:531
+msgid "Medium"
+msgstr ""
+
+#: inc/kirki-customizer.php:532
+msgid "Product Hunt"
+msgstr ""
+
+#: inc/kirki-customizer.php:533
+msgid "Reddit"
+msgstr ""
+
+#: inc/kirki-customizer.php:534
+msgid "Slide Share"
+msgstr ""
+
+#: inc/kirki-customizer.php:535
+msgid "Snapchat"
+msgstr ""
+
+#: inc/kirki-customizer.php:536
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/kirki-customizer.php:537
+msgid "Spotify"
+msgstr ""
+
+#: inc/kirki-customizer.php:538
+msgid "StackOverflow"
+msgstr ""
+
+#: inc/kirki-customizer.php:539
+msgid "TripAdvisor"
+msgstr ""
+
+#: inc/kirki-customizer.php:540
+msgid "Tumblr"
+msgstr ""
+
+#: inc/kirki-customizer.php:541
+msgid "Twitch"
+msgstr ""
+
+#: inc/kirki-customizer.php:543
+msgid "Vimeo"
+msgstr ""
+
+#: inc/kirki-customizer.php:544
+msgid "VK"
+msgstr ""
+
+#: inc/kirki-customizer.php:545
+msgid "Website"
+msgstr ""
+
+#: inc/kirki-customizer.php:546
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/kirki-customizer.php:547
+msgid "WordPress"
+msgstr ""
+
+#: inc/kirki-customizer.php:548
+msgid "Xing"
+msgstr ""
+
+#: inc/kirki-customizer.php:549
+msgid "Yelp"
+msgstr ""
+
+#: inc/kirki-customizer.php:554
+msgid "Link URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:555
+msgid "This will be the link URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:573
+msgid "Choose Header Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:576 inc/kirki-customizer.php:835
+#: inc/kirki-customizer.php:851
+msgid "Select an option..."
+msgstr ""
+
+#: inc/kirki-customizer.php:579
+msgid "Header Style 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:580
+msgid "Header Style 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:581
+msgid "Header Style 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:582
+msgid "Header Style 4"
+msgstr ""
+
+#: inc/kirki-customizer.php:589 inc/kirki-customizer.php:598
+msgid "Header Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:590
+msgid "Upload Your Logo."
+msgstr ""
+
+#: inc/kirki-customizer.php:599
+msgid "Header White Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:607
+msgid "Favicon"
+msgstr ""
+
+#: inc/kirki-customizer.php:608
+msgid "Favicon Icon"
+msgstr ""
+
+#: inc/kirki-customizer.php:625
+msgid "Show Hamburger On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:637 inc/kirki-customizer.php:638
+msgid "Logo Side"
+msgstr ""
+
+#: inc/kirki-customizer.php:645
+msgid "About Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:647
+msgid "About Us"
+msgstr ""
+
+#: inc/kirki-customizer.php:653 inc/xpress-helper.php:321
+msgid "About Us Desc.."
+msgstr ""
+
+#: inc/kirki-customizer.php:655
+msgid "About Us Desc..."
+msgstr ""
+
+#: inc/kirki-customizer.php:663 inc/kirki-customizer.php:680
+msgid "Contact Us"
+msgstr ""
+
+#: inc/kirki-customizer.php:678
+msgid "Contact Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:686
+msgid "Office Address"
+msgstr ""
+
+#: inc/kirki-customizer.php:688 inc/xpress-helper.php:325
+msgid "Bowery St., New York, NY 10013, USA"
+msgstr ""
+
+#: inc/kirki-customizer.php:696 inc/xpress-helper.php:326
+msgid "+1255-568-6523"
+msgstr ""
+
+#: inc/kirki-customizer.php:703
+msgid "Email ID"
+msgstr ""
+
+#: inc/kirki-customizer.php:705 inc/xpress-helper.php:327
+msgid "information@gmail.com"
+msgstr ""
+
+#: inc/kirki-customizer.php:720 inc/kirki-customizer.php:721
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:728 inc/kirki-customizer.php:729
+msgid "Breadcrumb Right Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:735 inc/kirki-customizer.php:736
+msgid "Breadcrumb Bottom Icon"
+msgstr ""
+
+#: inc/kirki-customizer.php:742
+msgid "Breadcrumb BG Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:743
+msgid "This is a Breadcrumb bg color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:751
+msgid "Breadcrumb Padding Top"
+msgstr ""
+
+#: inc/kirki-customizer.php:753 inc/kirki-customizer.php:761
+msgid "160px"
+msgstr ""
+
+#: inc/kirki-customizer.php:759
+msgid "Breadcrumb Padding Bottom"
+msgstr ""
+
+#: inc/kirki-customizer.php:777
+msgid "Blog BTN On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:789
+msgid "Blog Button text"
+msgstr ""
+
+#: inc/kirki-customizer.php:791 inc/kirki-customizer.php:799
+#: post-formats/content-audio.php:68 post-formats/content-audio.php:70
+#: post-formats/content-gallery.php:76 post-formats/content-gallery.php:78
+#: post-formats/content-image.php:69 post-formats/content-image.php:71
+#: post-formats/content-search.php:70 post-formats/content-search.php:72
+#: post-formats/content-video.php:77 post-formats/content-video.php:79
+#: post-formats/content.php:69 post-formats/content.php:71
+msgid "Read More"
+msgstr ""
+
+#: inc/kirki-customizer.php:797
+msgid "Blog Button text rtl"
+msgstr ""
+
+#: inc/kirki-customizer.php:806
+msgid "Blog Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:808 inc/xpress-helper.php:850
+#: inc/xpress-helper.php:853 inc/xpress-helper.php:863
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customizer.php:815
+msgid "Blog Details Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:817
+msgid "Blog Details"
+msgstr ""
+
+#: inc/kirki-customizer.php:832
+msgid "Choose Footer Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:839
+msgid "Footer Style 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:840
+msgid "Footer Style 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:841
+msgid "Footer Style 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:848
+msgid "Widget Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:855
+msgid "Widget Number 5"
+msgstr ""
+
+#: inc/kirki-customizer.php:856
+msgid "Widget Number 4"
+msgstr ""
+
+#: inc/kirki-customizer.php:857
+msgid "Widget Number 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:858
+msgid "Widget Number 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:865 inc/kirki-customizer.php:866
+msgid "Footer Background Image."
+msgstr ""
+
+#: inc/kirki-customizer.php:873
+msgid "Footer BG Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:874
+msgid "This is a Footer bg color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:883
+msgid "Footer Logo On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:896 inc/kirki-customizer.php:897
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:912
+msgid "Footer Newslater On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:925
+msgid "Newslater Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:927
+msgid "SUBSCRIBE NEWS LATTER"
+msgstr ""
+
+#: inc/kirki-customizer.php:941
+msgid "Newslater Form Shortcode"
+msgstr ""
+
+#: inc/kirki-customizer.php:956
+msgid "Footer Copyright On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:969
+msgid "Copy Right"
+msgstr ""
+
+#: inc/kirki-customizer.php:971 inc/xpress-helper.php:832
+#: inc/xpress-helper.php:834
+msgid "Copy Right &copy; Example 2021.Design By XpressRow"
+msgstr ""
+
+#: inc/kirki-customizer.php:991
+msgid "400 Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:999
+msgid "Not Found Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:1007
+msgid "404 Description Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:1009
+msgid ""
+"Oops! The page you are looking for does not exist. It might have been moved "
+"or deleted"
+msgstr ""
+
+#: inc/kirki-customizer.php:1015
+msgid "404 Link Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:1033
+msgid "RTL On/Off"
+msgstr ""
+
+#: inc/xpress-functions.php:33
+msgid "Tags:"
+msgstr ""
+
+#: inc/xpress-functions.php:71
+msgid "Image Alt Text"
+msgstr ""
+
+#: inc/xpress-helper.php:320
+msgid "About us"
+msgstr ""
+
+#: inc/xpress-helper.php:322 inc/xpress-helper.php:324
+msgid "Contact us"
+msgstr ""
+
+#: inc/xpress-helper.php:359
+msgid "English"
+msgstr ""
+
+#: inc/xpress-helper.php:388
+msgid "Bangla"
+msgstr ""
+
+#: inc/xpress-helper.php:389
+msgid "Arabic"
+msgstr ""
+
+#: inc/xpress-helper.php:868
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/xpress-helper.php:870
+msgid "Page not Found"
+msgstr ""
+
+#: inc/xpress-helper.php:872
+msgid "Shop"
+msgstr ""
+
+#: inc/xpress-helper.php:891
+msgid "155"
+msgstr ""
+
+#: inc/xpress-helper.php:892
+msgid "175"
+msgstr ""
+
+#: inc/xpress-helper.php:915 inc/xpress-helper.php:925
+#: woocommerce/single-product/product-image.php:49
+msgid "img"
+msgstr ""
+
+#: inc/xpress-helper.php:1190
+msgid "Cart Items"
+msgstr ""
+
+#: post-formats/content-audio.php:25 post-formats/content-audio.php:59
+#: post-formats/content-gallery.php:28 post-formats/content-gallery.php:67
+#: post-formats/content-image.php:22 post-formats/content-image.php:60
+#: post-formats/content-search.php:23 post-formats/content-search.php:61
+#: post-formats/content-video.php:30 post-formats/content-video.php:68
+#: post-formats/content.php:22 post-formats/content.php:60
+msgid "Comments"
+msgstr ""
+
+#: post-formats/content-audio.php:38 post-formats/content-gallery.php:41
+#: post-formats/content-image.php:35 post-formats/content-page.php:5
+#: post-formats/content-search.php:36 post-formats/content-video.php:43
+#: post-formats/content.php:35
+msgid "Pages:"
+msgstr ""
+
+#: post-formats/content-gallery.php:20 post-formats/content-gallery.php:57
+msgid "gallery image"
+msgstr ""
+
+#: post-formats/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: post-formats/content-page.php:9
+msgid "Page"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70 woocommerce/cart/mini-cart.php:64
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:29
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Add Your Comments"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Name*"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Email*"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Post review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Review*"
+msgstr ""
+
+#: woocommerce/single-product/product-thumbnails.php:45
+msgid "image"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""

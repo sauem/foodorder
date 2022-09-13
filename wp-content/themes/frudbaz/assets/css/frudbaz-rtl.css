@@ -1,0 +1,79 @@
+.header_carts {
+	margin-left: 0;
+	margin-right: 80px;
+}
+.header_right .search_box button {
+	right: auto;
+	left: 20px;
+}
+.slide-bar {
+	right: auto !important;
+	left: -330px !important;
+}
+.slide-bar.show {
+	left: 0 !important;
+}
+.header_carts .icon {
+	margin-left: 0;
+	margin-right: 20px;
+}
+
+.hero_area .hero_text .hero_btn .thm_btn {
+	margin-right: 0;
+	margin-left: 30px;
+}
+.hero_area .hero_text .hero_btn .thm_btn:last-child {
+	margin-left: 0;
+}
+
+.hero_bottom .hero_video {
+	float: left;
+}
+
+.hero_area.hero_1::before {
+	left: auto;
+	right: 0;
+}
+
+.info_list li::before {
+	right: auto;
+	left: 29px;
+}
+
+.info_list li .count {
+	right: auto;
+	left: 0;
+}
+
+.info_list li {
+	padding-right: 0;
+	padding-left: 88px;
+	text-align: left;
+}
+
+.hero_video a span {
+	margin-left: 0;
+	margin-right: 20px;
+}
+
+.hero_social li:last-child {
+	margin-left: 0;
+}
+
+.hero_social li {
+	margin-right: 0;
+	margin-left: 50px;
+}
+
+.hero_social li i {
+	padding-right: 0;
+	margin-left: 5px;
+}
+.section_bg::before {
+	left: auto;
+	right: 0;
+}
+.offer_content .offer_btn li {
+	margin-right: 0;
+	margin-left: 50px;
+}
