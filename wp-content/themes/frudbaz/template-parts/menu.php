@@ -18,8 +18,10 @@ get_header();
                         while (have_posts()): the_post();
                             ?>
                             <div class="slide-item">
+                                <a target="_blank" href="<?= get_post_meta(get_the_ID(), 'link_to', true) ?>">
                                 <img src="<?= get_the_post_thumbnail_url() ?>" class="img-fluid"
                                      alt="<?= get_post_meta(get_the_ID(), 'alt', true) ?>">
+                                </a>
                             </div>
                         <?php endwhile;
                         wp_reset_query(); ?>
