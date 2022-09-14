@@ -1,0 +1,47 @@
+$dark: #1a1a1a;
+body{
+  // background-color: $dark;
+}
+.slider{
+  position: relative;
+  .btn-slider{
+    padding: 15px 30px;
+    width: fit-content;
+    color: $dark;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: goldenrod;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    &:hover{
+      background-color: gold;
+    }
+  }
+}
+
+.slick-dots{
+  bottom: 10px;
+  li{
+    &.slick-active{
+      button{
+        width: 20px;
+        opacity: 1;
+      }
+    }
+    button{
+      width: 10px;
+      border-radius: 5px;
+      content: '';
+      height: 10px;
+      background-color: white;
+      opacity: .25;
+      &:before{
+        display: none;
+      }
+    }
+  }
+
+}

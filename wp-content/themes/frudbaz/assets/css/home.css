@@ -1,0 +1,33 @@
+.slider {
+  position: relative; }
+  .slider .btn-slider {
+    padding: 15px 30px;
+    width: fit-content;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: goldenrod;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    margin: auto; }
+    .slider .btn-slider:hover {
+      background-color: gold; }
+
+.slick-dots {
+  bottom: 10px; }
+  .slick-dots li.slick-active button {
+    width: 20px;
+    opacity: 1; }
+  .slick-dots li button {
+    width: 10px;
+    border-radius: 5px;
+    content: '';
+    height: 10px;
+    background-color: white;
+    opacity: .25; }
+    .slick-dots li button:before {
+      display: none; }
+
+/*# sourceMappingURL=home.css.map */
