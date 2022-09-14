@@ -12,7 +12,7 @@ get_header();
                     <div class="main-slider">
                         <?php
                         query_posts([
-                            'post_type' => 'menu',
+                            'post_type' => 'slider2',
                             'posts' => 99
                         ]);
                         while (have_posts()): the_post();
