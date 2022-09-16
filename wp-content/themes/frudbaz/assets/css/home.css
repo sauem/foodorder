@@ -33,4 +33,10 @@
     .slick-dots li button:before {
       display: none; }
 
+footer {
+  background-color: #1a1a1a;
+  padding: 50px 0; }
+  footer h2, footer p, footer a {
+    color: white; }
+
 /*# sourceMappingURL=home.css.map */

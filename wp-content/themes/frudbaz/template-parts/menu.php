@@ -6,7 +6,7 @@ get_header();
 ?>
 <?php if (have_posts()): ?>
     <section class="slider bg-dark">
-        <div class="container mt-5">
+        <div class="container pt-5">
             <div class="row">
                 <div class="col-md-8 offset-md-2">
                     <div class="main-slider">
