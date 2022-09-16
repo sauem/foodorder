@@ -24,7 +24,12 @@ get_header();
         <a class="btn-slider" href="/menu">SEE MENU</a>
 
     </section>
-    <?php  the_content() ?>
+
+    <section class="container py-5">
+        <div class="col-md-10 offset-md-1">
+            <?php the_content(); ?>
+        </div>
+    </section>
 <?php
 endif;
 get_footer();
