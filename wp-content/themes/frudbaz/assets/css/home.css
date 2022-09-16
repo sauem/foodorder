@@ -1,6 +1,9 @@
 .bg-dark {
   background-color: #1a1a1a; }
 
+.mb--50px {
+  margin-bottom: -50px; }
+
 .slider {
   position: relative; }
   .slider .btn-slider {

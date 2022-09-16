@@ -26,7 +26,7 @@ get_header();
     </section>
 
     <section class="container py-5">
-        <div class="col-md-10 offset-md-1">
+        <div class="col-md-8 offset-md-2">
             <?php the_content(); ?>
         </div>
     </section>
